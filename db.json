@@ -1,0 +1,48 @@
+{
+  "accounts": [
+    {
+      "type": "human-resource",
+      "name": "Heather",
+      "surname": "Kinghorn",
+      "id": "AmL3npA",
+      "gender": "female",
+      "bg": "hr_female"
+    },
+    {
+      "type": "employer",
+      "name": "Glen",
+      "surname": "Johnson",
+      "id": "MaN1xlM",
+      "gender": "male",
+      "bg": "employer_male"
+    },
+    {
+      "type": "candidate",
+      "name": "Bradley",
+      "surname": "Dilley",
+      "id": "PeV6yuL",
+      "gender": "male",
+      "bg": "employee_male"
+    }
+  ],
+  "employers": [
+    {
+      "company_name": "DataWorld",
+      "name": "Glen Johnson",
+      "id": "MaN1xlM",
+      "location": "Christchurch"
+    },
+    {
+      "company_name": "TeleComz",
+      "name": "John Smith",
+      "location": "auckland",
+      "id": "NmCaClb"
+    },
+    {
+      "company_name": "DevTown",
+      "name": "Bradley Jason",
+      "location": "wellington",
+      "id": "5PLh2-H"
+    }
+  ]
+ }
